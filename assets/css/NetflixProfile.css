@@ -1,0 +1,11 @@
+.dimensione {
+    width: 500px !important;
+   
+}
+main p {
+    opacity: 0.5;
+}
+
+body {
+    background-color:  rgb(20, 20, 20);
+}
